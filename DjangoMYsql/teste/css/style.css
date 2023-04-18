@@ -1,0 +1,21 @@
+body{
+    
+
+
+}
+.style1{
+color: aqua;
+background-color: #eb6a6a;
+text-align: center;
+margin: 13px;
+
+}
+.style2{
+    font-size: 15px;
+    text-align: left;
+    background-color: aqua;
+    margin: 13px;
+    text-align: justify;
+    text-indent: 30px;
+   
+}
